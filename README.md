@@ -9,7 +9,7 @@
 
 Check out my personal portfolio: [devnil-folio.lovable.app](https://devnil-folio.lovable.app/)
 
-![Portfolio Screenshot](https://devnil-folio.lovable.app/)![Screenshot 2025-06-25 132922.png…]()
+!(https://devnil-folio.lovable.app/)![(https://cdn.corenexis.com/view/?img=d/ju25/6MVkwC.png)]
 )
 
 
