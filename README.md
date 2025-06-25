@@ -5,6 +5,14 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devnil-674580189) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DevXNil22171) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snil576dev@gmail.com) 
 
+## 🌐 Portfolio Website
+
+Check out my personal portfolio: [devnil-folio.lovable.app](https://devnil-folio.lovable.app/)
+
+![Portfolio Screenshot](https://devnil-folio.lovable.app/)![Screenshot 2025-06-25 132922.png…]()
+)
+
+
 ## 💻 LeetCode Profile
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/nilanjans434?theme=dark&font=Source+Code+Pro)](https://leetcode.com/nilanjans434)
