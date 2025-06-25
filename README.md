@@ -9,10 +9,6 @@
 
 Check out my personal portfolio: [devnil-folio.lovable.app](https://devnil-folio.lovable.app/)
 
-!(https://devnil-folio.lovable.app/)![(https://cdn.corenexis.com/view/?img=d/ju25/6MVkwC.png)]
-)
-
-
 ## 💻 LeetCode Profile
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/nilanjans434?theme=dark&font=Source+Code+Pro)](https://leetcode.com/nilanjans434)
