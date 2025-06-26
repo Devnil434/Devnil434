@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working  as freelancer<br>👯 I’m looking to collaborate on different types of Open-Source Projects<br>🤝 I’m looking for help with others developers from different edges of the world.<br>🌱 I’m currently learning AI/ML(Gen AI & MLOps).<br>💬 Ask me about:-<br>      Aspiring AI/ML Engineer, pursuing my B. Tech in CSE.<br>⚡ Fun fact:-<br>      Love to play video games, have great interest in politics......
+🔭 I’m currently working  as freelancer<br>👯 I’m looking to collaborate on different types of Open-Source Projects<br>🤝 I’m looking for help with others developers from different edges of the world.<br>🌱 I’m currently learning DevOps, AI/ML(Gen AI & MLOps).<br>💬 Ask me about:-<br>      Software Engineer(DevOps & AWS), pursuing my B. Tech in CSE.<br>⚡ Fun fact:-<br>      Love to play video games, have great interest in politics......
 
 
 ## 🌐 Socials:
