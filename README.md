@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devnil-674580189) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]([https://x.com/@DevXNil22171](https://x.com/itsDevNil434)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snil576dev@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devnil-674580189) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]((https://x.com/itsDevNil434)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snil576dev@gmail.com) 
 
 ## 🌐 Portfolio Website
 
