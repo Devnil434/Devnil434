@@ -7,7 +7,7 @@
 
 ## 🌐 Portfolio Website
 
-Check out my personal portfolio: (https://dazzling-3d-portfolios-unleashed-ma.vercel.app/)
+Check out my personal portfolio: https://tinyurl.com/2mfuc5kj
 
 ## 💻 LeetCode Profile
 
