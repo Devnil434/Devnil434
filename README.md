@@ -7,7 +7,7 @@
 
 ## 🌐 Portfolio Website
 
-Check out my personal portfolio: https://tinyurl.com/2mfuc5kj
+Check out my personal portfolio: https://portfolio-bkj0xgyez-hackathons-projects-b68d0165.vercel.app/
 
 ## 💻 LeetCode Profile
 
