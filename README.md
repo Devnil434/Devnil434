@@ -145,6 +145,14 @@ https://portfolio-bkj0xgyez-hackathons-projects-b68d0165.vercel.app/
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Devnil434/Devnil434/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
 [![Holopin Badges](https://holopin.me/devnil434)](https://holopin.io/@devnil434)
 
 <!-- ================= END PROFILE ================= -->
